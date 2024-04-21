@@ -19,7 +19,6 @@ cask "clakr" do
       "~/Library/Logs/Homebrew/clakr",
       "~/Library/Preferences/kami.dev.clakr.plist",
       "~/Library/Saved Application State/kami.dev.clakr.savedState",
-      # Add any other paths here if necessary
     ]
   
     caveats <<~EOS
